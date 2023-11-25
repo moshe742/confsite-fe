@@ -1,0 +1,31 @@
+.blog_posts {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    justify-content: center;
+}
+
+.blog_preview {
+    min-width: 480px;
+    width: 25%;
+}
+
+.blog_title {
+    line-height: 2;
+    font-size: 2rem;
+    margin: 1rem 0;
+    font-weight: 800;
+}
+
+.blog_post {
+    padding: 30px;
+    line-height: 1.7rem;
+}
+
+/* .blog_post p {
+    line-height: 1.7rem;
+}
+
+.blog_post li {
+
+} */
